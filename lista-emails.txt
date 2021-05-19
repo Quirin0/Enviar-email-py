@@ -1,0 +1,1 @@
+Insira emails que irao receber a mensagem ex: fulano@gmail.com, ciclano@gmail.com
